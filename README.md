@@ -10,6 +10,7 @@ Momeemt is a very modern library written in (practically) the Nim language!
 - 👑 I love Nim.
 - 🎮 I have been involved in the planning and development of a number of MineCraft-related services.
 - 🎶 I listen to tiny yawn and Clean Bandit a lot.
+- 💻 SecHack365 '20 (Learning-driven)
 
 ## Contact
 - Please follow me on Twitter [@momeemt](twitter.com/momeemt)
