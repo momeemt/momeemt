@@ -4,6 +4,8 @@
 
 Momeemt is a very modern library written in (practically) the Nim language!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=momeemt)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Features
 - 🍣 I make sushi on my day off.
 - 👩‍🎓 I go to high school during the week. I am interested in physics.
