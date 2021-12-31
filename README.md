@@ -19,7 +19,7 @@
 | --- | --------------------------------------- |
 | 2003 | Born in Shiga, Japan |
 | 2016 | Enroll in Oshukan Secondary School |
-| 2022 | Enroll in College Of Information Science in University of Tsukuba |
+| 2022 | Enroll in College Of INformation Science in University of Tsukuba |
 
 ## Achievement, Experience
 
