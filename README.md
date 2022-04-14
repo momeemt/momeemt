@@ -13,6 +13,6 @@
   - Machine Learning, Image Processing
 
 ## Contact
-- Please follow me on Twitter [@momeemt](twitter.com/momeemt)
+- Please follow me on Twitter [@momeemt](https://twitter.com/momeemt)
 - [Qiita](https://qiita.com/momeemt)
 - [Zenn](https://zenn.dev/momeemt)
