@@ -1,6 +1,19 @@
 # momeemt
-- University student (coins22)
-- Interested in video editing software, interface, and computer graphics
+- B1 | University of Tsukuba (coins22)
+  - [jsys22-23](https://github.com/sohosai)
+- Interested in the interface of video editing software
 - Nim, FFmpeg
-- [@mock-up](https://github.com/mock-up)
-- Studying Rust, Haskell, network protocols (WebRTC, RTP, HTTP)
+- Project
+  - [mock up](https://github.com/mock-up/mock-up)
+  - [brack-lang](https://github.com/brack-lang/transpiler)
+- Studying
+  - Rust
+  - Zig
+  - Nix
+  - compilers
+- Link
+  - [Keybase](https://keybase.io/momeemt)
+  - [Zenn](https://zenn.dev/momeemt)
+  - [Blog](https://blog.momee.mt)
+  - [Playlist](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=49a8c93521204bee)
+  - [Wantedly](https://www.wantedly.com/id/momeemt)
