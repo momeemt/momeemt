@@ -15,5 +15,5 @@
   - [Keybase](https://keybase.io/momeemt)
   - [Zenn](https://zenn.dev/momeemt)
   - [Blog](https://blog.momee.mt)
-  - [Playlist](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=49a8c93521204bee)
+  - [Playlist](https://open.spotify.com/playlist/2uffgEGEtyhlCfXA5HYXKr?si=2c907eecfa824aa3)
   - [Wantedly](https://www.wantedly.com/id/momeemt)
