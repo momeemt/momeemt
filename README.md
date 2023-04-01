@@ -1,19 +1,9 @@
 # momeemt
-- B1 | University of Tsukuba (coins22)
-  - [jsys22-23](https://github.com/sohosai)
-- Interested in the interface of video editing software
-- Nim, FFmpeg
-- Project
-  - [mock up](https://github.com/mock-up/mock-up)
-  - [brack-lang](https://github.com/brack-lang/transpiler)
-- Studying
-  - Rust
-  - Zig
-  - Nix
-  - compilers
+- B2
+  - Studying CS at University of Tsukuba
+  - [jsys23](https://github.com/sohosai) | [sohosai.com](https://sohosai.com)
+- Interested in HCI, compilers and 🇮🇪 Irish
 - Link
   - [Keybase](https://keybase.io/momeemt)
   - [Zenn](https://zenn.dev/momeemt)
   - [Blog](https://blog.momee.mt)
-  - [Playlist](https://open.spotify.com/playlist/2uffgEGEtyhlCfXA5HYXKr?si=2c907eecfa824aa3)
-  - [Wantedly](https://www.wantedly.com/id/momeemt)
