@@ -2,6 +2,7 @@
 - B2
   - Studying CS at University of Tsukuba (coins22)
   - [Sohosai](https://github.com/sohosai) jsys23
+  - [hello-coins](https://github.com/hello-coins) 2023
 - Interest
   - Improving quality of life with the computer
   - FFmpeg, Video Streaming Protocol
