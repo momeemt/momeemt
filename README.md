@@ -1,8 +1,18 @@
 # momeemt
 - B2
-  - Studying CS at University of Tsukuba
-  - [jsys23](https://github.com/sohosai) | [sohosai.com](https://sohosai.com)
-- Interested in HCI, compilers and 🇮🇪 Irish
+  - Studying CS at University of Tsukuba (coins22)
+  - [Sohosai](https://github.com/sohosai) jsys23
+- Interest
+  - Improving quality of life with the computer
+  - FFmpeg, Video Streaming Protocol
+  - Language Processing System
+- Programming Languages
+  - Nim, Rust
+  - Studying Nix, SATySFi, Haskell, ...
+- Music
+  - [hitsujibungaku](https://open.spotify.com/intl-ja/artist/6S8w5rLsEwjN21jQeRES0n)
+  - [Kinoko Teikoku](https://open.spotify.com/intl-ja/artist/61H9d7hbIfFNxJJQmIL9AJ)
+  - [Dé Domhnaigh](https://open.spotify.com/intl-ja/artist/1qde9rtvjWxyZR97SzcuUE)
 - Link
   - [Keybase](https://keybase.io/momeemt)
   - [Zenn](https://zenn.dev/momeemt)
