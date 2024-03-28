@@ -1,11 +1,12 @@
 # momeemt
 - Mutsuha Asada
-- Studying CS at University of Tsukuba
-- [🐏 hitsujibungaku](https://open.spotify.com/intl-ja/artist/6S8w5rLsEwjN21jQeRES0n)
-- Interest
-  - Improving reading experiences and household chores using computers
-  - Video streaming technologies and their infrastructure
-- Social
+- Studying CS at Tsukuba University (coins22 / B3)
+- Main interests
+  - Compilers and strong type system
+  - Reproducible builds
+  - Video infrastructures
+- A fan of [🐏 hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n?si=m-8ddm4nQS64ESuMk5LyzQ), [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1?si=_gzErQ6DQl2KHFFvq0tKvQ), [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD?si=zUMscCOFQDunNPQSlPFtGA), [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ?si=P2C3eqosRwidouvD8zVLLQ) and [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV?si=jV-Y2kCETUytNT8-gfzXmA)
+- Social stuff
   - [Wakatime](https://wakatime.com/@momeemt)
   - [Keybase](https://keybase.io/momeemt)
   - [Zenn](https://zenn.dev/momeemt)
