@@ -10,7 +10,7 @@
   - Build systems (especially Nix)
   - Compilers and programming language toolchains
   - Computer architecture
-- 🫶 [hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n?si=m-8ddm4nQS64ESuMk5LyzQ)
+- 🫶 [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n?si=m-8ddm4nQS64ESuMk5LyzQ)
 - Contact
   - me@momee.mt
   - X: [@mutsuha_asada](https://x.com/mutsuha_asada) (ja)
