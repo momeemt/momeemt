@@ -5,12 +5,12 @@
 - I'm working with friends who are a billion times faster at calculations than we are! 😸
 
 ## About
-- B4 @ [System Security Research Group](https://syssec.cs.tsukuba.ac.jp/wp/index.php/en/home/), College of Information Science, School Of Informatics, University of Tsukuba
+- [System Security Research Group](https://syssec.cs.tsukuba.ac.jp/wp/index.php/en/home/)
 - Interests
   - Reproducible Builds
   - Build systems
   - Compiler toolchains
-  - Development productivity 
+  - Development productivity
 - Resource
   - https://momee.mt
   - https://slides.momee.mt
